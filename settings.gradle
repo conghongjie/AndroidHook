@@ -1,1 +1,1 @@
-include ':hook_base', ':demo'
+include ':demo', ':java_hook', ':native_hook'
